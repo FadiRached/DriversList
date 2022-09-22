@@ -1,0 +1,20 @@
+body {
+    padding: 1em;
+}
+
+label {
+    margin: 0.5em;
+}
+
+#add {
+    margin-left: 290px;
+    font-size: 12px;
+    background: rgba(1, 168, 1, 0.76);
+}
+
+#submit {
+    margin-top: 1em;
+    display: block;
+    width: 300px;
+    margin-bottom: 1em;
+}
